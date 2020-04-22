@@ -14,3 +14,7 @@ thumbs.db*
 *.app
 *.dll
 thextech
+logs/
+screenshots/
+gif-recordings/
+settings/
