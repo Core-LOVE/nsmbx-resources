@@ -1,0 +1,24 @@
+--physical & graphical width
+width = 32
+--physical & graphical height
+height = 32
+--players & npcs can walk through
+noclipping = false
+--npcs can walk through
+npcnoclipping = false
+--players can walk through
+playernoclipping = false
+--turns into npc id after p-switch is activated
+pswitch = 33
+--kills player & npcs on contact
+kills = false
+--hurts player on contact
+hurts = false
+--acts like a semi-solid
+hitspot1 = false
+--floor slope setting (default is 0. you can set it to -1/1)
+floorslope = 0
+--celling slope setting (default is 0. you can set it to -1/1)
+cellingslope = 0
+--acts like sizeable
+sizeable = false
