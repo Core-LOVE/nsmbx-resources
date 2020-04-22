@@ -1,0 +1,6 @@
+*.sav
+*.savx
+Thumbs.db*
+thumbs.db*
+.DS_Store
+
