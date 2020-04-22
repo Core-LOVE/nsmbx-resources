@@ -3,4 +3,14 @@
 Thumbs.db*
 thumbs.db*
 .DS_Store
-
+/PGE/*
+/PGE/tools/sox
+!/PGE/update-pge*
+!/PGE/configs
+!/PGE/tools
+*.exe
+*.so
+*.dylib
+*.app
+*.dll
+thextech

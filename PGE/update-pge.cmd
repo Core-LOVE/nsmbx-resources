@@ -1,12 +1,5 @@
 @echo off
 set PGE_WIN32ZIP=https://builds.wohlsoft.ru/win32/bin-w32/_packed/pge-project-master-win32.zip
-rem ================================================================================
-rem                        !!! IMPORTANT NOTE !!!
-rem Before release new SMBX build, make the replica of current in-repo config pack
-rem state, upload it into docs/_laboratory/config_packs/SMBX2 folder, store URL to
-rem it here, then, set SMBX2_IS_RELEASE with `true` value (without quotes)
-rem ================================================================================
-set SMBX2_IS_RELEASE=false
 
 echo ================================================
 echo       Welcome to PGE Project update tool!
