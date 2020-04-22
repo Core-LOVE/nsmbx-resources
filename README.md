@@ -1,0 +1,1 @@
+# NSMBX resources

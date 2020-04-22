@@ -1,0 +1,70 @@
+--graphic's x offset
+gfxoffsetx = 0
+--graphic's y offset
+gfxoffsety = 0
+--physical width
+width = 32
+--physical height
+height = 32
+--graphical width
+gfxwidth = 32
+--graphical height
+gfxheight = 32
+--score after killing npc
+score = 10
+--acts like a block from it's sides to players
+playerblock = false
+--acts like a block from it's top to players
+playerblocktop = false 
+--acts like a block from it's sides to other npcs
+npcblock = false
+--acts like a block from it's top to other npcs
+npcblocktop = false
+--player's ability to grab npc from it's sides
+grabside = false
+--player's ability to grab npc from it's top
+grabtop = false
+--hurts player when they jump on npc
+jumphurt = true
+--hurts player when they spinjump on npc
+spinjumphurt = true
+--(warning: it may not work) bounces player in side when they jump/spinjump on npc
+jumpbounce = false
+--doesn't hurt player when they contact it.
+nohurt = false
+--no block collision for npc
+noblockcollision = false
+--npc turns at cliffs
+cliffturn = true
+--yoshi can't interact with npc
+noyoshi = false
+--graphic's higher priority
+foreground = false
+--changes multiplied speed
+speed = 1
+--fireballs can't kill npc
+nofireball = false
+--iceballs can't turn npc into ice
+noiceball = false
+--npc has no gravity
+nogravity = false
+--amount of max.frames for npc overall (framestyle = 0); left & right direction (framestyle = 1); left & right direction for non-grabbed, grabbed graphics (framestyle = 2)
+frames = 2
+--speed of frame's change.
+framespeed = 8
+--framestyle of npc
+framestyle = 0
+
+---SECRET SETTINGS (actually not so secret anymore)
+isabot = false
+isboot = false
+isacoin = false
+isabonus = false
+isanexit = false
+isaparatroopa = false
+isashell = false
+isavine = false
+ischeep = false
+istoad = false
+isveggie = false
+isyoshi = false
