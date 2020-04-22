@@ -1,0 +1,10 @@
+*/
+!.gitignore
+
+!cliche/
+!cliche/*/
+!cliche/*/*/
+
+!the invasion 2/
+!the invasion 2/*/
+!the invasion 2/*/*/
