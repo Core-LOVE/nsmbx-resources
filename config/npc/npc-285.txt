@@ -1,0 +1,6 @@
+width = 32
+height = 32
+gfxoffsety = 2
+jumphurt = true
+defaultmovement = true
+spinjumphurt = false
