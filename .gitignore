@@ -2,6 +2,7 @@
 *.savx
 Thumbs.db*
 thumbs.db*
+desktop.ini*
 .DS_Store
 /PGE/*
 /PGE/tools/sox
