@@ -1,1 +1,2 @@
-smashable=true
+bumpable = true
+transform = 132
