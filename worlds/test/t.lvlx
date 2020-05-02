@@ -2,7 +2,7 @@ HEAD
 TL:"test";
 HEAD_END
 SECTION
-SC:0;L:-200000;R:-197280;T:-200600;B:-200000;MZ:0;MF:"";BG:59;XTRA:"{\n    \"blinking_block\"\: {\n        \"blinking_enabled\"\: false\n    }\,\n    \"section_timer\"\: {\n        \"timer_enabled\"\: false\n    }\n}\n";
+SC:0;L:-200000;R:-197280;T:-200928;B:-200000;MZ:0;MF:"";BG:59;XTRA:"{\n    \"blinking_block\"\: {\n        \"blinking_enabled\"\: false\n    }\,\n    \"section_timer\"\: {\n        \"timer_enabled\"\: false\n    }\n}\n";
 SC:1;L:-180000;R:-178112;T:-180600;B:-180000;MZ:0;MF:"";BG:31;
 SC:2;L:-160000;R:-159200;T:-160600;B:-160000;MZ:0;MF:"";BG:17;
 SC:3;L:-140000;R:-137600;T:-141120;B:-140000;MZ:0;MF:"";BG:59;
@@ -1898,6 +1898,7 @@ ID:25;X:-197728;Y:-200128;W:16;H:16;
 ID:25;X:-197744;Y:-200112;W:64;H:16;
 ID:25;X:-197744;Y:-200160;W:16;H:48;
 ID:25;X:-197824;Y:-200144;W:48;H:48;
+ID:174;X:-199360;Y:-200192;W:32;H:32;
 BLOCK_END
 BGO
 ID:122;X:-599872;Y:-600640;
@@ -2421,7 +2422,6 @@ NPC_END
 PHYSICS
 ET:0;X:-119104;Y:-120128;W:704;H:128;
 ET:0;X:-119552;Y:-120128;W:128;H:128;
-ET:0;X:-199360;Y:-200096;W:32;H:32;
 PHYSICS_END
 DOORS
 IX:-198304;IY:-200096;OX:-198384;OY:-200096;DT:2;ID:1;OD:1;SM:"sup big boi";LB:1;
