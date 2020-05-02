@@ -1,0 +1,4 @@
+width = 128
+height = 128
+frames = 4
+framespeed = 14
