@@ -1,1 +1,2 @@
-smashable=true
+hitable = true
+transform = 61
