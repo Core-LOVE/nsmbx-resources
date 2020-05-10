@@ -1,2 +1,2 @@
-bumpable = true
-transform = 132
+hitable = true
+transform = 61
