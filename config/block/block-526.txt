@@ -1,1 +1,2 @@
-hitable = true
+smashable = true
+destroyeffect = 107
