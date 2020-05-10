@@ -54,6 +54,8 @@ frames = 2
 framespeed = 8
 --framestyle of npc
 framestyle = 0
+--npc will despawn
+despawn=true
 
 ---SECRET SETTINGS (actually not so secret anymore)
 isabot = false
@@ -68,3 +70,4 @@ ischeep = false
 istoad = false
 isveggie = false
 isyoshi = false
+defaultmovement = false
