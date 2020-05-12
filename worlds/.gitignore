@@ -12,7 +12,3 @@
 !test/
 !test/*/
 !test/*/*/
-
-!challenge world 1/
-!challenge world 1/*/
-!challenge world 1/*/*/
