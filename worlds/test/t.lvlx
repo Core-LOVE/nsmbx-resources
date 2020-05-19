@@ -2,7 +2,7 @@ HEAD
 TL:"test";
 HEAD_END
 SECTION
-SC:0;L:-200000;R:-197280;T:-200928;B:-200000;MZ:0;MF:"";BG:66;XTRA:"{\n    \"blinking_block\"\: {\n        \"blinking_enabled\"\: false\n    }\,\n    \"section_timer\"\: {\n        \"timer_enabled\"\: false\n    }\n}\n";
+SC:0;L:-200000;R:-197280;T:-200928;B:-200000;MZ:0;MF:"";BG:66;XTRA:"{\n    \"blinking_block\"\: {\n        \"blinking_enabled\"\: false\n    }\,\n    \"effects\"\: {\n        \"weather\"\: 1\n    }\,\n    \"section_timer\"\: {\n        \"timer_enabled\"\: false\n    }\n}\n";
 SC:1;L:-180000;R:-178112;T:-180600;B:-180000;MZ:0;MF:"";BG:31;
 SC:2;L:-160000;R:-159200;T:-160600;B:-160000;MZ:0;MF:"";BG:17;
 SC:3;L:-140000;R:-137600;T:-141120;B:-140000;MZ:0;MF:"";BG:59;
