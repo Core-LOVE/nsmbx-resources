@@ -1,5 +1,5 @@
 {
-	"style" : "frame",
+	"style" : "tree",
 	"title" : "Level Settings",
 	"layout": [
 			{
@@ -8,7 +8,7 @@
 				"title": "Level Timer",
 				"children": [{
 								"control": "checkbox",
-								"name": "enable",
+								"name": "time_enable",
 								"title": "Enable",
 								"tooltip": "When checked, the timer will be active in this level.",
 								"text-visible": false,
