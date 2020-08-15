@@ -1,1 +1,2 @@
 hammer = true
+noicebrick = true
