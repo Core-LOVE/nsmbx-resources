@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TYPE="nsmbx"
+TYPE="smr"
 if [[ "$TYPE" == "" ]]; then
 echo "Error: empty name!"
 exit 1
