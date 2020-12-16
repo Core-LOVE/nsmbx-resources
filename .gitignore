@@ -1,5 +1,6 @@
 *.sav
 *.savx
+*.bak
 Thumbs.db*
 thumbs.db*
 desktop.ini*
